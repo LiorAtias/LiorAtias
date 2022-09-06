@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @LiorAtias
+- Autodidact
 - 👀 I’m interested in html and python & java coding projects and devops operations
 - 🌱 I’m currently a DevOps engineer
 - 💞️ I’m looking to collaborate on python and agile projects
