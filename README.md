@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiorAtias
-- 👀 I’m interested in html and python coding and devops operations
-- 🌱 I’m currently practising junior devops tasks
+- 👀 I’m interested in html and python & java coding projects and devops operations
+- 🌱 I’m currently a DevOps engineer
 - 💞️ I’m looking to collaborate on python and agile projects
 - 📫 How to reach me liorat2011@gmail.com
 
