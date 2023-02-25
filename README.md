@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiorAtias
 - 🦉 Autodidact
 - 👀 I’m interested in html and python & java coding projects and devops operations
-- 🌱 I’m currently a DevOps engineer
+- 🌱 I’m currently a DevOps engineer at Cloudride
 - 💞️ I’m looking to collaborate on python and agile projects
 - 📫 How to reach me liorat2011@gmail.com
 
